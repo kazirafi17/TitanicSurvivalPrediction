@@ -37,8 +37,6 @@ st.markdown(
 st.markdown('<div class="main">', unsafe_allow_html=True)
 st.markdown('<div class="title">Titanic Survival Prediction</div>', unsafe_allow_html=True)
 
-# Display an image
-st.image('https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg', use_column_width=True)
 
 # User inputs for prediction
 st.markdown('<div class="section-header">Enter Passenger Details:</div>', unsafe_allow_html=True)
